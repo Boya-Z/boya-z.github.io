@@ -1,35 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.0330a1bd.css",
-    "main.js": "/static/js/main.a0fd3d85.js",
+    "main.css": "/static/css/main.72710876.css",
+    "main.js": "/static/js/main.ca24a4d2.js",
     "static/media/devicon.svg?biu5f3": "/static/media/devicon.f715b4139afc5236a6e6.svg",
     "static/media/devicon.eot?biu5f3": "/static/media/devicon.afa70020fddd5e5a3260.eot",
     "static/media/devicon.woff?biu5f3": "/static/media/devicon.96fdfd136e8a467e1861.woff",
     "static/media/devicon.ttf?biu5f3": "/static/media/devicon.b25739c2b9d15a53d60c.ttf",
-    "static/media/resume.pdf": "/static/media/resume.b88ea98f86d46b516ad6.pdf",
+    "static/media/resume.pdf": "/static/media/resume.349f0ba3e6884642e0af.pdf",
     "static/media/Tencent.png": "/static/media/Tencent.36c5067b0bd7d7866770.png",
     "static/media/sql.png": "/static/media/sql.0ce2171017511e49cf73.png",
+    "static/media/clang.png": "/static/media/clang.4d328d421113cf0d2750.png",
     "static/media/cpp.png": "/static/media/cpp.8c3775832b4122226ab6.png",
     "static/media/python.png": "/static/media/python.93a0e9ec42ddfebc9c9e.png",
-    "static/media/clang.png": "/static/media/clang.e7f68f48a3749f513ff0.png",
     "static/media/rlang.png": "/static/media/rlang.6f0faf4564552c0c3fc7.png",
     "static/media/html.png": "/static/media/html.b74df08d26fe5cd91e29.png",
     "static/media/java.png": "/static/media/java.3d908caaf329266f067d.png",
     "static/media/react.png": "/static/media/react.0b021db27acf78d8c6e4.png",
     "static/media/css.png": "/static/media/css.a4fa50005ff3218b6e9d.png",
+    "static/media/powerbi.png": "/static/media/powerbi.ed31c9178a483e225a56.png",
     "static/media/Alibaba.png": "/static/media/Alibaba.714a60a6db544f3ea441.png",
-    "static/media/vba.png": "/static/media/vba.49990a6b33e430d14a04.png",
+    "static/media/spark.png": "/static/media/spark.84796041a3e36641a3f5.png",
+    "static/media/vba.png": "/static/media/vba.2d4ad24938a14d0648d0.png",
     "static/media/tableau.png": "/static/media/tableau.a7403607b08a891122f3.png",
     "static/media/TheTradeDesk.png": "/static/media/TheTradeDesk.2d7f822fb173bd080ce7.png",
     "static/media/javascript.png": "/static/media/javascript.d27fb0d8cf65f92dedf5.png",
     "static/media/loading.gif": "/static/media/loading.1a32f552ee5280e2aef9.gif",
-    "static/media/powerbi.png": "/static/media/powerbi.fb08346d8fdbf12fbcab.png",
     "index.html": "/index.html",
-    "main.0330a1bd.css.map": "/static/css/main.0330a1bd.css.map",
-    "main.a0fd3d85.js.map": "/static/js/main.a0fd3d85.js.map"
+    "main.72710876.css.map": "/static/css/main.72710876.css.map",
+    "main.ca24a4d2.js.map": "/static/js/main.ca24a4d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.0330a1bd.css",
-    "static/js/main.a0fd3d85.js"
+    "static/css/main.72710876.css",
+    "static/js/main.ca24a4d2.js"
   ]
 }
