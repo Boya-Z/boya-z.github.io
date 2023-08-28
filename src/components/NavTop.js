@@ -1,5 +1,6 @@
 import { Navbar, Nav, Container } from "react-bootstrap";
-import { Link, NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
+import { HashLink as NavLink } from "react-router-hash-link";
 import { FaAlignRight } from "react-icons/fa";
 import { GrClose } from "react-icons/gr";
 import { useState } from "react";
@@ -26,28 +27,28 @@ function NavTop() {
               <GrClose />
             </button>
             <div className="menu-list">
-              <NavLink to="/" onClick={toogleClose}>
+              <NavLink smooth to="/" onClick={toogleClose}>
                 Home
               </NavLink>
-              <NavLink to="/about" onClick={toogleClose}>
+              <NavLink smooth to="#/about" onClick={toogleClose}>
                 About
               </NavLink>
-              <NavLink to="/experiences" onClick={toogleClose}>
+              <NavLink smooth to="#/experiences" onClick={toogleClose}>
                 Experiences
               </NavLink>
-              <NavLink to="/projects" onClick={toogleClose}>
+              <NavLink smooth to="#/projects" onClick={toogleClose}>
                 Projects
               </NavLink>
-              <NavLink to="/courses" onClick={toogleClose}>
+              <NavLink smooth to="#/courses" onClick={toogleClose}>
                 Course Taken
               </NavLink>
-              <NavLink to="/skills" onClick={toogleClose}>
+              <NavLink smooth to="#/skills" onClick={toogleClose}>
                 Skills
               </NavLink>
-              <NavLink to="/resume" onClick={toogleClose}>
+              <NavLink smooth to="#/resume" onClick={toogleClose}>
                 Resume
               </NavLink>
-              <NavLink to="/contact" onClick={toogleClose}>
+              <NavLink smooth to="#/contact" onClick={toogleClose}>
                 Contact
               </NavLink>
             </div>

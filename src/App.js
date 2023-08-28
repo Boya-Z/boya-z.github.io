@@ -1,4 +1,3 @@
-import { Route, Routes } from "react-router-dom";
 import { useState } from "react";
 import { Spinner } from "react-bootstrap";
 import SideVertical from "./components/SideVertical";
@@ -13,6 +12,10 @@ import Home from "./pages/home/Home";
 import Resume from "./pages/resume/Resume";
 import "./index.css";
 import Courses from "./pages/courses/Courses";
+import {
+  Route,
+  Routes,
+} from "react-router-dom";
 
 function App() {
   const [preload, setPreload] = useState(true);
