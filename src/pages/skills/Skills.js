@@ -1,6 +1,7 @@
 import { Container } from 'react-bootstrap';
 import { Helmet, HelmetProvider } from 'react-helmet-async';
 import '../../style.css';
+import { Col, Row } from "react-bootstrap";
 import Java from '../../assets/img/techstack/java.png';
 import CLang from '../../assets/img/techstack/clang.png';
 import Cpp from '../../assets/img/techstack/cpp.png';
@@ -14,6 +15,7 @@ import React from '../../assets/img/techstack/react.png';
 import VBA from '../../assets/img/techstack/vba.png';
 import Tableau from '../../assets/img/techstack/tableau.png';
 import PowerBI from '../../assets/img/techstack/powerbi.png';
+import Spark from '../../assets/img/techstack/spark.png';
 
 function Skills() {
   return (
@@ -30,40 +32,64 @@ function Skills() {
             ───&nbsp;&nbsp;Page <strong>06</strong>
           </h4>
         </div>
-        <div className="skills-right" style={{ position: 'absolute', left: '1100px', top: '400px' }}>
-          <div className="row my-4 animate__animated animate__flipInX animate_slow">
-            <div className="col">
-              <img src={Java} alt="Java" width={110} height={100} />
-              <img src={CLang} alt="C" width={110} height={100} />
-              <img src={Cpp} alt="C++" width={110} height={100} />
-              <img src={Python} alt="Python" width={110} height={100} />
-            </div>
-          </div>
+        <div className="skills-right">
+          <Row style={{ justifyContent: "center", paddingBottom: "50px"}}>
+            <Col xs={4} md={2} className="tech-icons">
+                <img src={Java} length={150} width={150}title="Java" alt="java"/>
+            </Col>
 
-          <div className="row my-4 animate__animated animate__flipInX animate_slow">
-            <div className="col">
-              <img src={RLang} alt="R" width={110} height={100} />
-              <img src={SQL} alt="SQL" width={110} height={100} />
-              <img src={JavaScript} alt="JavaScript" width={110} height={100} />
-              <img src={HTML} alt="HTML" width={110} height={100} />
-            </div>
-          </div>
+            <Col xs={4} md={2} className="tech-icons">
+                <img src={Python} length={150} width={150} title="Python" alt="python"/>
+            </Col>
 
-          <div className="row my-4 animate__animated animate__flipInX animate_slow">
-            <div className="col">
-              <img src={CSS} alt="CSS" width={110} height={100} />
-              <img src={React} alt="React" width={110} height={100} />
-              <img src={VBA} alt="VBA" width={110} height={100} />
-              <img src={Tableau} alt="Tableau" width={110} height={100} />
-            </div>
-          </div>
+            <Col xs={4} md={2} className="tech-icons">
+                <img src={CLang} length={150} width={150} title="R" alt="c"/>
+            </Col>
 
-          <div className="row my-4 animate__animated animate__flipInX animate_slow">
-            <div className="col">
-              <img src={PowerBI} alt="PowerBI" width={110} height={100} />
-            </div>
-          </div> 
-          
+            <Col xs={4} md={2} className="tech-icons">
+                <img src={Cpp} length={150} width={150} title="C++" alt="c++"/>
+            </Col>
+
+            <Col xs={4} md={2} className="tech-icons">
+                <img src={RLang} length={150} width={150} title="R" alt="r"/>
+            </Col>
+
+            <Col xs={4} md={2} className="tech-icons">
+                <img src={SQL} length={150} width={150} title="SQL" alt="sql"/>
+            </Col>
+
+            <Col xs={4} md={2} className="tech-icons">
+                <img src={JavaScript} length={150} width={150} title="JavaScript" alt="javascript"/>
+            </Col>
+
+            <Col xs={4} md={2} className="tech-icons">
+                <img src={HTML} length={150} width={150} title="HTML" alt="html"/>
+            </Col>
+
+            <Col xs={4} md={2} className="tech-icons">
+                <img src={CSS} length={150} width={150} title="CSS" alt="css"/>
+            </Col>
+
+            <Col xs={4} md={2} className="tech-icons">
+                <img src={React} length={150} width={150} title="React" alt="react"/>
+            </Col>
+
+            <Col xs={4} md={2} className="tech-icons">
+                <img src={VBA} length={150} width={150} title="VBA" alt="vba"/>
+            </Col>
+
+            <Col xs={4} md={2} className="tech-icons">
+                <img src={PowerBI} length={150} width={150} title="PowerBI" alt="powerbi"/>
+            </Col>
+
+            <Col xs={4} md={2} className="tech-icons">
+                <img src={Tableau} length={150} width={150} title="Tableau" alt="tableau"/>
+            </Col>
+
+            <Col xs={4} md={2} className="tech-icons">
+                <img src={Spark} length={150} width={150} title="Spark" alt="spark"/>
+            </Col>
+          </Row>
           <br /> <br /> <br /> <br /> <br /> <br /> <br />
         </div>
       </Container>

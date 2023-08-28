@@ -32,7 +32,7 @@ function Experiences() {
                         iconStyle={{ background: '#c770f0', color: '#fff' }}
                         icon={<MdWorkOutline />}
                     >
-                        <h3 className="vertical-timeline-element-title">Business Analysis Intern</h3>
+                        <h3 className="vertical-timeline-element-title">Software Engineer Intern</h3>
                         <a href="https://www.thetradedesk.com/us" style={{textDecoration: 'none'}}> <h4 className="vertical-timeline-element-subtitle">The Trade Desk</h4> </a>
                         <a href="https://www.thetradedesk.com/us"> <img className="vertical-timeline-element-image" src={TTD} width={140} height={140} alt="TheTradeDesk" /> </a>
                         <h4 className="vertical-timeline-element-subtitle">Shanghai, China</h4>

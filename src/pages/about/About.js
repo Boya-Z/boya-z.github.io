@@ -17,7 +17,7 @@ function About() {
             ───&nbsp;&nbsp;Page <strong>02</strong>
           </h4>
         </div>
-        <div className="about-right" style={{ position: 'absolute', left: '1100px', top: '400px' }}>
+        <div className="about-right">
           <p> 
             Hi, I'm Boya Zeng, a first year master student at University of Chicago, studying Applied Data Science.
           </p>

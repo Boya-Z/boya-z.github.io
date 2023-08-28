@@ -37,7 +37,7 @@ function ResumeNew() {
                     </Document>
                 </Row>
 
-                <Row style={{ justifyContent: "center", position: 'absolute', right: '870px', top: '1600px' }}>
+                <Row style={{ justifyContent: "center", position: 'flex', right: '870px', top: '1600px' }}>
                     <Button
                         variant="dark"
                         href={Resume}
