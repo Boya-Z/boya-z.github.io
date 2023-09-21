@@ -30,25 +30,25 @@ function NavTop() {
               <NavLink smooth to="/" onClick={toogleClose}>
                 Home
               </NavLink>
-              <NavLink smooth to="#/about" onClick={toogleClose}>
+              <NavLink smooth to="/about" onClick={toogleClose}>
                 About
               </NavLink>
-              <NavLink smooth to="#/experiences" onClick={toogleClose}>
+              <NavLink smooth to="/experiences" onClick={toogleClose}>
                 Experiences
               </NavLink>
-              <NavLink smooth to="#/projects" onClick={toogleClose}>
+              <NavLink smooth to="/projects" onClick={toogleClose}>
                 Projects
               </NavLink>
-              <NavLink smooth to="#/courses" onClick={toogleClose}>
+              <NavLink smooth to="/courses" onClick={toogleClose}>
                 Course Taken
               </NavLink>
-              <NavLink smooth to="#/skills" onClick={toogleClose}>
+              <NavLink smooth to="/skills" onClick={toogleClose}>
                 Skills
               </NavLink>
-              <NavLink smooth to="#/resume" onClick={toogleClose}>
+              <NavLink smooth to="/resume" onClick={toogleClose}>
                 Resume
               </NavLink>
-              <NavLink smooth to="#/contact" onClick={toogleClose}>
+              <NavLink smooth to="/contact" onClick={toogleClose}>
                 Contact
               </NavLink>
             </div>
