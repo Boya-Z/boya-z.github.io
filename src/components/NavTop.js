@@ -21,7 +21,7 @@ function NavTop() {
     return (
       <>
         <NavTop />
-        <div className="menu">
+        <div className={toogleMenu ? "menu active" : "menu"}>
           <Container fluid className="menu-close">
             <button className="toogle-menu ms-auto" onClick={toogleClose}>
               <GrClose />
