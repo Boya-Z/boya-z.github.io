@@ -922,10 +922,10 @@ i#normal {
   .toogle-menu {
       display: flex;
   }
-}
 
-.menu.active {
-  display: flex;
+  .menu {
+      display: flex;
+  }
 }
 
 /* --------- */
@@ -972,7 +972,7 @@ a.arrow:hover {
   cursor: default;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 992px) {
   .side-vertical {
     display: none !important;
   }
