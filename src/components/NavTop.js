@@ -60,7 +60,7 @@ function NavTop() {
 
   return (
     <>
-      <Navbar className="navtop py-3" expand="lg">
+      <Navbar className="navtop py-4" expand="xlg">
         <Container fluid className="px-4">
           <Navbar.Brand className="navtop-brand">
             <Link to="/">
