@@ -28,8 +28,8 @@ function Experiences() {
                         className="vertical-timeline-element--work"
                         date="September 2022 - August 2023"
                         contentStyle={{ background: '#F5F5F5', color: '#000' }}
-                        contentArrowStyle={{ borderRight: '7px solid  #c770f0' }}
-                        iconStyle={{ background: '#c770f0', color: '#fff' }}
+                        contentArrowStyle={{ borderRight: '7px solid  #89CFF0' }}
+                        iconStyle={{ background: '#89CFF0', color: '#fff' }}
                         icon={<MdWorkOutline />}
                     >
                         <h3 className="vertical-timeline-element-title">Software Engineer Intern</h3>
@@ -45,8 +45,8 @@ function Experiences() {
                         className="vertical-timeline-element--work"
                         date="June 2021 - September 2021"
                         contentStyle={{ background: '#F5F5F5', color: '#000' }}
-                        contentArrowStyle={{ borderRight: '7px solid  #c770f0' }}
-                        iconStyle={{ background: '#c770f0', color: '#fff' }}
+                        contentArrowStyle={{ borderRight: '7px solid  #89CFF0' }}
+                        iconStyle={{ background: '#89CFF0', color: '#fff' }}
                         icon={<MdWorkOutline />}
                     >
                         <h3 className="vertical-timeline-element-title">Data Scientist Intern</h3>
@@ -62,8 +62,8 @@ function Experiences() {
                         className="vertical-timeline-element--work"
                         date="August 2020 - October 2020"
                         contentStyle={{ background: '#F5F5F5', color: '#000' }}
-                        contentArrowStyle={{ borderRight: '7px solid  #c770f0' }}
-                        iconStyle={{ background: '#c770f0', color: '#fff' }}
+                        contentArrowStyle={{ borderRight: '7px solid  #89CFF0' }}
+                        iconStyle={{ background: '#89CFF0', color: '#fff' }}
                         icon={<MdWorkOutline />}
                     >
                         <h3 className="vertical-timeline-element-title">Data Analysis Intern</h3>
