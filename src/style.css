@@ -972,7 +972,7 @@ a.arrow:hover {
   cursor: default;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1200px) {
   .side-vertical {
     display: none !important;
   }
