@@ -36,8 +36,11 @@ function Experiences() {
                         <a href="https://www.thetradedesk.com/us" style={{textDecoration: 'none'}}> <h4 className="vertical-timeline-element-subtitle">The Trade Desk</h4> </a>
                         <a href="https://www.thetradedesk.com/us"> <img className="vertical-timeline-element-image" src={TTD} width={140} height={140} alt="TheTradeDesk" /> </a>
                         <h4 className="vertical-timeline-element-subtitle">Shanghai, China</h4>
-                        <p>
-                            xxx
+                        <p>Led a team of 3 to design and implement a web-based automation tools using Python(Flask), JavaScript, HTML, and CSS. Managed all aspects through GitLab, including streamlined file uploads, integration with metadata checks, and enhanced data handling. The initaitve helped 150+ internal stakeholders to save +90% of manual precessing time.</p>
+                        •	Deployed an E2E data pipeline and developed and maintained full-cycle analytics dashboards through Tableau to provide meaningful insights and guide strategic decision-making, securing an $88 million+ deal with Samsung in the US.<br />
+                        •	Built ETL process infrastructure using SQL to improve workflow efficiency. Created visualizations such as waterfall charts, KPI cards, and drill-down reports using Power BI, presented to senior leaders and external partners.<br />
+                        •	Created a custom ad-hoc reporting platform using Python and Streamlit, allowing users to generate tailored performance reports for internal stakeholders. Presented analysis and recommendations to senior management.<br />
+
                         </p>
                     </VerticalTimelineElement>
 
@@ -53,8 +56,11 @@ function Experiences() {
                         <a href="https://www.tencent.com/" style={{textDecoration: 'none'}}> <h4 className="vertical-timeline-element-subtitle">Tencent</h4> </a>
                         <a href="https://www.tencent.com/"> <img className="vertical-timeline-element-image" src={Tencent} width={140} height={140} alt="Tencent" /> </a>
                         <h4 className="vertical-timeline-element-subtitle">Shanghai, China</h4>
-                        <p>
-                            xxx
+                        <p> &#x2022;Led a team of 3 to design and implement a web-based automation tools using Python(Flask), JavaScript, HTML, and CSS. Managed all aspects through GitLab, including streamlined file uploads, integration with metadata checks, and enhanced data handling. The initaitve helped 150+ internal stakeholders to save +90% of manual precessing time.<br /><br />
+                            &#x2022;Deployed an E2E data pipeline and developed and maintained full-cycle analytics dashboards through Tableau to provide meaningful insights and guide strategic decision-making, securing an $88 million+ deal with Samsung in the US. <br /><br />
+                            &#x2022;Built ETL process infrastructure using SQL to improve workflow efficiency. Created visualizations such as waterfall charts, KPI cards, and drill-down reports using Power BI, presented to senior leaders and external partner.<br /><br />
+                            &#x2022;Created a custom ad-hoc reporting platform using Python and Streamlit, allowing users to generate tailored performance reports for internal stakeholders. Presented analysis and recommendations to senior management.<br /><br />
+                        
                         </p>
                     </VerticalTimelineElement>
 
