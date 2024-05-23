@@ -18,7 +18,7 @@ function Experiences() {
                 </Helmet>
             </HelmetProvider>
             <Container fluid className="skills-wrapper">
-                <div className="skills-left animate__animated animate__zoomIn">
+                <div className="experience animate__animated animate__zoomIn">
                     <h3>Experiences</h3>
                     <h4>
                         ───&nbsp;&nbsp;Page <strong>03</strong>
