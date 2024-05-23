@@ -7,7 +7,7 @@ import { MdWorkOutline } from "react-icons/md";
 import TTD from '../../assets/img/TheTradeDesk.png';
 import Tencent from '../../assets/img/Tencent.png';
 import Alibaba from '../../assets/img/Alibaba.png';
-import royalcyber from '../../assets/img/royalcyber.png';
+import royalcyber from '../../assets/img/royalcyber.jpeg';
 
 function Experiences() {
     return (
