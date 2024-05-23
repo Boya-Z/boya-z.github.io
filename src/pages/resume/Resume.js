@@ -15,7 +15,12 @@ function ResumeNew() {
     const [numPages, setNumPages] = useState(null);
 
     useEffect(() => {
-        setWidth(window.innerWidth);
+        const updateWidth = () => {
+            setWidth(window.innerWidth);
+        };
+        window.addEventListener('resize', updateWidth);
+        updateWidth();
+        return () => window.removeEventListener('resize', updateWidth);
     }, []);
 
     function onDocumentLoadSuccess({ numPages }) {
@@ -39,23 +44,25 @@ function ResumeNew() {
                     </div>
                     <Document
                         file={resumeLink}
-                        className="d-flex justify-content-center"
                         onLoadSuccess={onDocumentLoadSuccess}
                     >
                         {Array.from(
                             new Array(numPages),
                             (el, index) => (
-                                <Page
-                                    key={`page_${index + 1}`}
-                                    pageNumber={index + 1}
-                                    scale={width > 786 ? 1.7 : 0.6}
-                                />
+                                <Row key={`page_${index + 1}`}>
+                                    <Col className="d-flex justify-content-center">
+                                        <Page
+                                            pageNumber={index + 1}
+                                            scale={width > 786 ? 1.7 : 0.6}
+                                        />
+                                    </Col>
+                                </Row>
                             )
                         )}
                     </Document>
                 </Row>
 
-                <Row style={{ justifyContent: "center", position: 'relative', right: '870px', top: '1600px' }}>
+                <Row style={{ justifyContent: "center", position: 'relative', marginTop: '20px' }}>
                     <Button
                         variant="dark"
                         href={Resume}
@@ -65,8 +72,7 @@ function ResumeNew() {
                         <AiOutlineDownload />
                         &nbsp;Download CV
                     </Button>
-                </Row> 
-                <br /> <br /> <br /> <br /> <br /> <br /> <br />
+                </Row>
             </Container>
         </>
     );
