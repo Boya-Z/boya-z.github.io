@@ -3,6 +3,11 @@ import { Helmet, HelmetProvider } from 'react-helmet-async';
 import '../../style.css';
 import LoadingGif from '../../assets/img/loading.gif';
 import ProjectCard from "./ProjectCards";
+import amazon from '../../assets/img/project/amazon.webp';
+import divvy from '../../assets/img/project/divvy.webp';
+import credit from '../../assets/img/project/credit.png';
+import cvv from '../../assets/img/project/cv.jpeg';
+import nlp from '../../assets/img/project/nlp.png';
 
 function Projects() {
   return (
@@ -23,7 +28,7 @@ function Projects() {
           <Row style={{ justifyContent: "center" }}>
             <Col md={4}>
               <ProjectCard
-                imgPath={LoadingGif}
+                imgPath={divvy}
                 isBlog={false}
                 title="Time Series Demand Foresting for Divvy Bike Usage in Chicago"
                 description="A forecasting system developed using Python and machine learning models like SARIMA, Prophet, Orbit, and LSTM, optimizing Divvy bike availability and reducing costs.                                                                         "
@@ -33,7 +38,7 @@ function Projects() {
             </Col>
             <Col md={4}>
               <ProjectCard
-                imgPath={LoadingGif}
+                imgPath={credit}
                 isBlog={false}
                 title="Credit Card Fraud Detection System using Deep Learning"
                 description="A fraud detection system developed using deep learning techniques like Multilayer Neural Networks and CNNs, achieving 97.50% accuracy and 100% precision in identifying fraudulent transactions.                                  "
@@ -43,7 +48,7 @@ function Projects() {
             </Col>
             <Col md={4}>
               <ProjectCard
-                imgPath={LoadingGif}
+                imgPath={nlp}
                 isBlog={false}
                 title="AI Trend Analysis on Industries with Natural Language Processing on GCP"
                 description="An AI impacts analysis using NLP techniques on 200K news articles,involving topic detection with LDA and BERTopic, sentiment analysis with a Customized Logistic Model, and entity recognition."
@@ -53,7 +58,7 @@ function Projects() {
             </Col>
             <Col md={4}>
               <ProjectCard
-                imgPath={LoadingGif}
+                imgPath={amazon}
                 isBlog={false}
                 title="Amazon Review Big Data Analysis"
                 description="A analysis of 200k+ Amazon reviews using AWS Glue and Amazon Redshift, with Spark NLP for sentiment analysis, Apache Spark's ALS in SageMaker for personalized recommendations, and K-Means clustering for customer segmentation."
@@ -73,7 +78,7 @@ function Projects() {
             </Col>
             <Col md={4}>
               <ProjectCard
-                imgPath={LoadingGif}
+                imgPath={cvv}
                 isBlog={false}
                 title="Computer Vision Project: Automated Image Classification System"
                 description="An image classifier developed using TensorFlow and Keras, applying data augmentation to 50k+ images and employing CNN architectures like ResNet and VGG, achieving 92% accuracy.                                                "
