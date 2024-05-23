@@ -35,7 +35,7 @@ function Home() {
         <div className="home-right animate__animated animate__fadeIn animate__slower">
           <img
             className="home-image"
-            style={{ position: 'absolute', left: '1300px', top: '200px' }}
+            style={{ position: 'absolute', left: '800px', top: '200px' }}
             src={Maya}
             alt="Avatar"
           />
