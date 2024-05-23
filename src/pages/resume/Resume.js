@@ -12,10 +12,15 @@ const resumeLink = Resume;
 
 function ResumeNew() {
     const [width, setWidth] = useState(1200);
+    const [numPages, setNumPages] = useState(null);
 
     useEffect(() => {
         setWidth(window.innerWidth);
     }, []);
+
+    function onDocumentLoadSuccess({ numPages }) {
+        setNumPages(numPages);
+    }
 
     return (
         <>
@@ -29,15 +34,28 @@ function ResumeNew() {
                     <div className="skills-left animate__animated animate__zoomIn">
                         <h3>Resume</h3>
                         <h4>
-                            ───&nbsp;&nbsp;Page <strong>07</strong>
+                            ───&nbsp;&nbsp;Pages <strong>1-{numPages}</strong>
                         </h4>
                     </div>
-                    <Document file={resumeLink} className="d-flex justify-content-center">
-                        <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
+                    <Document
+                        file={resumeLink}
+                        className="d-flex justify-content-center"
+                        onLoadSuccess={onDocumentLoadSuccess}
+                    >
+                        {Array.from(
+                            new Array(numPages),
+                            (el, index) => (
+                                <Page
+                                    key={`page_${index + 1}`}
+                                    pageNumber={index + 1}
+                                    scale={width > 786 ? 1.7 : 0.6}
+                                />
+                            )
+                        )}
                     </Document>
                 </Row>
 
-                <Row style={{ justifyContent: "center", position: 'flex', right: '870px', top: '1600px' }}>
+                <Row style={{ justifyContent: "center", position: 'relative', right: '870px', top: '1600px' }}>
                     <Button
                         variant="dark"
                         href={Resume}
@@ -55,4 +73,3 @@ function ResumeNew() {
 }
 
 export default ResumeNew;
-
