@@ -8,7 +8,7 @@ function Footer() {
     <>
       <footer className="px-4">
         <div className="foot-left d-flex">
-          <p>Copyright © {year} Maya</p>
+          <p>Copyright © {year} Boya Zeng</p>
         </div>
         <div className="foot-right d-flex">
           <a

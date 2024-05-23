@@ -26,7 +26,7 @@ function Projects() {
                 imgPath={LoadingGif}
                 isBlog={false}
                 title="Time Series Demand Foresting for Divvy Bike Usage in Chicago"
-                description=""
+                description="A sophisticated forecasting system developed using Python and machine learning models like SARIMA, Prophet, Orbit, and LSTM, optimizing Divvy bike availability and reducing costs. "
                 ghLink=""
                 //demoLink=""
               />
@@ -48,7 +48,7 @@ function Projects() {
                 imgPath={LoadingGif}
                 isBlog={false}
                 title="AI Trend Analysis on Industries with Natural Language Processing"
-                description="A simple E-commerce store built with Next.js, Tailwind CSS, and Stripe"
+                description="An in-depth study on AI's influence across sectors, analyzing 200K news articles with NLP methods like LDA, BERTopic, and sentiment analysis, enhanced with Google Vertex AI for entity recognition, revealing key AI trends and sentiments."
                 ghLink=""
                 //demoLink=""
               />
@@ -58,9 +58,7 @@ function Projects() {
                 imgPath={LoadingGif}
                 isBlog={false}
                 title="Amazon Review Big Data Analysis"
-                description="Data ingestion and analysis of 200,000 Amazon reviews using AWS Glue and Amazon Redshift, 
-                with Spark NLP for sentiment analysis, Apache Spark's ALS in SageMaker for personalized recommendations,
-                and K-Means clustering for targeted customer segmentation."
+                description="Data ingestion and analysis of 200,000 Amazon reviews using AWS Glue and Amazon Redshift, with Spark NLP for sentiment analysis, Apache Spark's ALS in SageMaker for personalized recommendations, and K-Means clustering for targeted customer segmentation."
                 ghLink=""
                 //demoLink=""
               />
@@ -70,7 +68,7 @@ function Projects() {
                 imgPath={LoadingGif}
                 isBlog={false}
                 title="APAC Region Campaigns KPI Real-Time Interactive Dashboard"
-                description="A simple E-commerce store built with Next.js, Tailwind CSS, and Stripe"
+                description="A dynamic data pipeline using AWS Redshift and Vertica, integrating 10M+ rows with regular updates to Tableau, enhancing decision-making efficiency by 30% with real-time KPI and metric tracking."
                 ghLink=""
                 //demoLink=""
               />
@@ -80,7 +78,7 @@ function Projects() {
                 imgPath={LoadingGif}
                 isBlog={false}
                 title="Computer Vision Project: Automated Image Classification System"
-                description="A simple E-commerce store built with Next.js, Tailwind CSS, and Stripe"
+                description="An advanced image classifier developed using TensorFlow and Keras, applying data augmentation to over 50,000 images and employing CNN architectures like ResNet and VGG, achieving 92% accuracy.e"
                 ghLink=""
                 //demoLink=""
               />
