@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.a602ad88.css",
-    "main.js": "/static/js/main.692e5f4d.js",
+    "main.js": "/static/js/main.4cf18bf3.js",
     "static/media/devicon.svg?biu5f3": "/static/media/devicon.f715b4139afc5236a6e6.svg",
     "static/media/maya.jpg": "/static/media/maya.0f88aac3e81eb78ba8dc.jpg",
+    "static/media/nlp.png": "/static/media/nlp.43ea2f2c0377fcac3237.png",
     "static/media/devicon.eot?biu5f3": "/static/media/devicon.afa70020fddd5e5a3260.eot",
     "static/media/devicon.woff?biu5f3": "/static/media/devicon.96fdfd136e8a467e1861.woff",
     "static/media/devicon.ttf?biu5f3": "/static/media/devicon.b25739c2b9d15a53d60c.ttf",
+    "static/media/credit.png": "/static/media/credit.be0d4fa62bb67afb182d.png",
     "static/media/resume.pdf": "/static/media/resume.6d14f57471124ae96a55.pdf",
+    "static/media/divvy.webp": "/static/media/divvy.2b24bae83d7aff2aea9c.webp",
     "static/media/Tencent.png": "/static/media/Tencent.36c5067b0bd7d7866770.png",
     "static/media/uwcs.png": "/static/media/uwcs.3736aeb284076138e5a3.png",
     "static/media/sql.png": "/static/media/sql.0ce2171017511e49cf73.png",
@@ -25,14 +28,16 @@
     "static/media/vba.png": "/static/media/vba.2d4ad24938a14d0648d0.png",
     "static/media/tableau.png": "/static/media/tableau.a7403607b08a891122f3.png",
     "static/media/TheTradeDesk.png": "/static/media/TheTradeDesk.2d7f822fb173bd080ce7.png",
+    "static/media/amazon.webp": "/static/media/amazon.3edb7a591ec4fed6b044.webp",
+    "static/media/cv.jpeg": "/static/media/cv.159ab148a9f5880600ec.jpeg",
     "static/media/javascript.png": "/static/media/javascript.d27fb0d8cf65f92dedf5.png",
     "static/media/loading.gif": "/static/media/loading.1a32f552ee5280e2aef9.gif",
     "index.html": "/index.html",
     "main.a602ad88.css.map": "/static/css/main.a602ad88.css.map",
-    "main.692e5f4d.js.map": "/static/js/main.692e5f4d.js.map"
+    "main.4cf18bf3.js.map": "/static/js/main.4cf18bf3.js.map"
   },
   "entrypoints": [
     "static/css/main.a602ad88.css",
-    "static/js/main.692e5f4d.js"
+    "static/js/main.4cf18bf3.js"
   ]
 }
