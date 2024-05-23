@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a602ad88.css",
-    "main.js": "/static/js/main.d496cda0.js",
+    "main.js": "/static/js/main.b561035a.js",
     "static/media/devicon.svg?biu5f3": "/static/media/devicon.f715b4139afc5236a6e6.svg",
     "static/media/maya.jpg": "/static/media/maya.0f88aac3e81eb78ba8dc.jpg",
     "static/media/devicon.eot?biu5f3": "/static/media/devicon.afa70020fddd5e5a3260.eot",
@@ -9,6 +9,7 @@
     "static/media/devicon.ttf?biu5f3": "/static/media/devicon.b25739c2b9d15a53d60c.ttf",
     "static/media/resume.pdf": "/static/media/resume.6d14f57471124ae96a55.pdf",
     "static/media/Tencent.png": "/static/media/Tencent.36c5067b0bd7d7866770.png",
+    "static/media/uwcs.png": "/static/media/uwcs.3736aeb284076138e5a3.png",
     "static/media/sql.png": "/static/media/sql.0ce2171017511e49cf73.png",
     "static/media/clang.png": "/static/media/clang.4d328d421113cf0d2750.png",
     "static/media/cpp.png": "/static/media/cpp.8c3775832b4122226ab6.png",
@@ -28,10 +29,10 @@
     "static/media/loading.gif": "/static/media/loading.1a32f552ee5280e2aef9.gif",
     "index.html": "/index.html",
     "main.a602ad88.css.map": "/static/css/main.a602ad88.css.map",
-    "main.d496cda0.js.map": "/static/js/main.d496cda0.js.map"
+    "main.b561035a.js.map": "/static/js/main.b561035a.js.map"
   },
   "entrypoints": [
     "static/css/main.a602ad88.css",
-    "static/js/main.d496cda0.js"
+    "static/js/main.b561035a.js"
   ]
 }
