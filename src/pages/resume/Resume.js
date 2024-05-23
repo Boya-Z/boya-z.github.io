@@ -50,8 +50,8 @@ function ResumeNew() {
                         {Array.from(
                             new Array(numPages),
                             (el, index) => (
-                                <Row key={`page_${index + 1}`} className="mb-2">  // Reduced margin-bottom here
-                                    <Col className="d-flex justify-content-center p-0">  // Padding set to zero
+                                <Row key={`page_${index + 1}`} className="mb-1">  // Reduced bottom margin
+                                    <Col>
                                         <Page
                                             pageNumber={index + 1}
                                             scale={width > 786 ? 1.7 : 0.6}
