@@ -7,7 +7,7 @@ import { MdWorkOutline } from "react-icons/md";
 import TTD from '../../assets/img/TheTradeDesk.png';
 import Tencent from '../../assets/img/Tencent.png';
 import Alibaba from '../../assets/img/Alibaba.png';
-import royalcyber from '../../assets/img/royalcyber.jpeg';
+import royalcyber from '../../assets/img/royalcyber.png';
 
 function Experiences() {
     return (
@@ -27,7 +27,7 @@ function Experiences() {
                 <VerticalTimeline lineColor="#F5F5F5"> 
                     <VerticalTimelineElement
                         className="vertical-timeline-element--work"
-                        date="September 2022 - August 2023"
+                        date="March 2024 - Present"
                         contentStyle={{ background: '#F5F5F5', color: '#000' }}
                         contentArrowStyle={{ borderRight: '7px solid  #89CFF0' }}
                         iconStyle={{ background: '#89CFF0', color: '#fff' }}
