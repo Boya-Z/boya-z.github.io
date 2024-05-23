@@ -46,7 +46,7 @@ function Contact() {
                     &nbsp;&nbsp;Email
                   </h3>
                   <p>mayazeng@outlook.com</p>
-                  <CopyToClipboard text="muhthoriqas1719@gmail.com">
+                  <CopyToClipboard text="mayazeng@outlook.com">
                     <button className="btn-copy" onClick={actionCopy}>
                       {alreadyCopy}&nbsp;&nbsp;
                       <FiCopy />

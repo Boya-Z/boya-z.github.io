@@ -36,7 +36,7 @@ function Projects() {
                 imgPath={LoadingGif}
                 isBlog={false}
                 title="Credit Card Fraud Detection System using Deep Learning"
-                description="A fraud detection system developed using deep learning, integrating techniques like Multilayer Neural Networks and CNNs, achieving 97.50% accuracy and 100% precision in identifying fraudulent transactions.                                  "
+                description="A fraud detection system developed using deep learning techniques like Multilayer Neural Networks and CNNs, achieving 97.50% accuracy and 100% precision in identifying fraudulent transactions.                                  "
                 ghLink="https://github.com/Boya-Z/Fraud-Detectoion"
                 //demoLink=""
               />
@@ -46,7 +46,7 @@ function Projects() {
                 imgPath={LoadingGif}
                 isBlog={false}
                 title="AI Trend Analysis on Industries with Natural Language Processing"
-                description="An AI impacts analysis using advanced NLP techniques on 200K news articles. This project involved topic detection with LDA and BERTopic, sentiment analysis with a Customized Logistic Model, and entity recognition with Google Cloud Platform."
+                description="An AI impacts analysis using NLP techniques on 200K news articles,involving topic detection with LDA and BERTopic, sentiment analysis with a Customized Logistic Model, and entity recognition on GCP."
                 ghLink=""
                 //demoLink=""
               />
@@ -56,7 +56,7 @@ function Projects() {
                 imgPath={LoadingGif}
                 isBlog={false}
                 title="Amazon Review Big Data Analysis"
-                description="A analysis of 200k+ Amazon reviews using AWS Glue and Amazon Redshift, with Spark NLP for sentiment analysis, Apache Spark's ALS in SageMaker for personalized recommendations, and K-Means clustering for targeted customer segmentation.      "
+                description="A analysis of 200k+ Amazon reviews using AWS Glue and Amazon Redshift, with Spark NLP for sentiment analysis, Apache Spark's ALS in SageMaker for personalized recommendations, and K-Means clustering for customer segmentation."
                 ghLink=""
                 //demoLink=""
               />
@@ -76,7 +76,7 @@ function Projects() {
                 imgPath={LoadingGif}
                 isBlog={false}
                 title="Computer Vision Project: Automated Image Classification System"
-                description="An advanced image classifier developed using TensorFlow and Keras, applying data augmentation to over 50,000 images and employing CNN architectures like ResNet and VGG, achieving 92% accuracy.                                                "
+                description="An image classifier developed using TensorFlow and Keras, applying data augmentation to 50k+ images and employing CNN architectures like ResNet and VGG, achieving 92% accuracy.                                                "
                 ghLink=""
                 //demoLink=""
               />
