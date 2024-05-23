@@ -26,7 +26,7 @@ function Contact() {
     <>
       <HelmetProvider>
         <Helmet>
-          <title>Maya's Portfolio - Contact</title>
+          <title>Boya's Portfolio - Contact</title>
         </Helmet>
       </HelmetProvider>
       <Container fluid className="contact-wrapper">

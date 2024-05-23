@@ -22,7 +22,7 @@ function Skills() {
     <>
       <HelmetProvider>
         <Helmet>
-          <title>Maya's Portfolio - Skills</title>
+          <title>Boya's Portfolio - Skills</title>
         </Helmet>
       </HelmetProvider>
       <Container fluid className="skills-wrapper">

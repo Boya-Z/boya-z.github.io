@@ -466,15 +466,20 @@ img.home-image {
 /* --------- */
 /* Experience */
 /* --------- */
-.experience h3, .skills-left h4 {
+.experience  {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   text-align: center;
   width: 300px;
+}
+
+.experience h3, .skills-left h4 {
   cursor: default;
 }
+
+
 .experience h3 {
   font-family: 'Archivo', sans-serif;
   font-weight: 800;

@@ -14,7 +14,7 @@ function Experiences() {
         <>
             <HelmetProvider>
                 <Helmet>
-                    <title>Maya's Portfolio - Experiences</title>
+                    <title>Boya's Portfolio - Experiences</title>
                 </Helmet>
             </HelmetProvider>
             <Container fluid className="skills-wrapper">

@@ -3,13 +3,14 @@ import { NavLink } from "react-router-dom";
 import LoadingGif from '../../assets/img/loading.gif';
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import '../../style.css';
+import Maya from '../../assets/img/maya.jpg';
 
 function Home() {
   return (
     <>
       <HelmetProvider>
         <Helmet>
-          <title>Maya - Portfolio</title>
+          <title>Boya - Portfolio</title>
         </Helmet>
       </HelmetProvider>
       <Container fluid className="home-wrapper">
@@ -35,7 +36,7 @@ function Home() {
           <img
             className="home-image"
             style={{ position: 'absolute', left: '1300px', top: '200px' }}
-            src={LoadingGif}
+            src={Maya}
             alt="Avatar"
           />
         </div>

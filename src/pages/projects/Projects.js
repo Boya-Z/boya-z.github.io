@@ -9,7 +9,7 @@ function Projects() {
     <>
       <HelmetProvider>
         <Helmet>
-          <title>Maya's Portfolio - Projects</title>
+          <title>Boya's Portfolio - Projects</title>
         </Helmet>
       </HelmetProvider>
       <Container fluid className="projects-container">

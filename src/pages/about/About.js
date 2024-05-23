@@ -7,7 +7,7 @@ function About() {
     <>
       <HelmetProvider>
         <Helmet>
-          <title>Maya's Portfolio - About</title>
+          <title>Boya's Portfolio - About</title>
         </Helmet>
       </HelmetProvider>
       <Container fluid className="about-wrapper">
@@ -19,7 +19,8 @@ function About() {
         </div>
         <div className="about-right">
           <p> 
-            Hi, I'm Boya Zeng, a first year master student at University of Chicago, studying Applied Data Science.
+            Hi, I'm Boya Zeng, a first year master student at University of Chicago, studying Applied Data Science. 
+            <strong>I am currently seeking full-time opportunities as a business analyst, data analyst, data scientist, or Machine Learning position.</strong>
           </p>
         </div>
 

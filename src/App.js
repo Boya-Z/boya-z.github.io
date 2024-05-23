@@ -29,7 +29,7 @@ function App() {
       <>
         <div className="preload">
           <h1>
-            <strong>Maya</strong>
+            <strong>Boya</strong>
           </h1>
           <p>─────</p>
           <Spinner animation="grow" />
