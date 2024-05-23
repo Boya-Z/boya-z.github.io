@@ -7,7 +7,8 @@ import amazon from '../../assets/img/project/amazon.webp';
 import divvy from '../../assets/img/project/divvy.webp';
 import credit from '../../assets/img/project/credit.png';
 import cvv from '../../assets/img/project/cv.jpeg';
-import nlp from '../../assets/img/project/nlp.png';
+import nlp from '../../assets/img/project/nlp.jpeg';
+import kpi from '../../assets/img/project/kpi.png';
 
 function Projects() {
   return (
@@ -68,7 +69,7 @@ function Projects() {
             </Col>
             <Col md={4}>
               <ProjectCard
-                imgPath={LoadingGif}
+                imgPath={kpi}
                 isBlog={false}
                 title="APAC Region Campaigns KPI Real-Time Interactive Dashboard"
                 description="A dynamic data pipeline using AWS Redshift and Vertica, integrating 10M+ rows with regular updates to Tableau, enhancing decision-making efficiency by 30% with real-time KPI and metric tracking.                                              "
