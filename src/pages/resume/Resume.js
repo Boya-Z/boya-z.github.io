@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Container, Row } from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Resume from "../../assets/resume/resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
