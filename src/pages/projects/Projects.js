@@ -26,7 +26,7 @@ function Projects() {
                 imgPath={LoadingGif}
                 isBlog={false}
                 title="Time Series Demand Foresting for Divvy Bike Usage in Chicago"
-                description="A sophisticated forecasting system developed using Python and machine learning models like SARIMA, Prophet, Orbit, and LSTM, optimizing Divvy bike availability and reducing costs. "
+                description="A forecasting system developed using Python and machine learning models like SARIMA, Prophet, Orbit, and LSTM, optimizing Divvy bike availability and reducing costs. "
                 ghLink=""
                 //demoLink=""
               />
@@ -36,9 +36,7 @@ function Projects() {
                 imgPath={LoadingGif}
                 isBlog={false}
                 title="Credit Card Fraud Detection System using Deep Learning"
-                description="An advanced fraud detection system built with deep learning techniques such as
-                 Multilayer Neural Network, Convolutional Neural Network, and data preprocessing including 
-                 under-sampling and PCA, achieving 97.50% accuracy and 100% precision in identifying fraudulent transactions."
+                description="A fraud detection system developed using deep learning, integrating techniques like Multilayer Neural Networks and CNNs, achieving 97.50% accuracy and 100% precision in identifying fraudulent transactions."
                 ghLink="https://github.com/Boya-Z/Fraud-Detectoion"
                 //demoLink=""
               />
@@ -48,7 +46,7 @@ function Projects() {
                 imgPath={LoadingGif}
                 isBlog={false}
                 title="AI Trend Analysis on Industries with Natural Language Processing"
-                description="An in-depth study on AI's influence across sectors, analyzing 200K news articles with NLP methods like LDA, BERTopic, and sentiment analysis, enhanced with Google Vertex AI for entity recognition, revealing key AI trends and sentiments."
+                description="An AI impacts analysis using advanced NLP techniques on 200K news articles. This project involved topic detection with LDA and BERTopic, sentiment analysis with a Customized Logistic Model, and entity recognition with Google Cloud Platform."
                 ghLink=""
                 //demoLink=""
               />
@@ -58,7 +56,7 @@ function Projects() {
                 imgPath={LoadingGif}
                 isBlog={false}
                 title="Amazon Review Big Data Analysis"
-                description="Data ingestion and analysis of 200,000 Amazon reviews using AWS Glue and Amazon Redshift, with Spark NLP for sentiment analysis, Apache Spark's ALS in SageMaker for personalized recommendations, and K-Means clustering for targeted customer segmentation."
+                description="A analysis of 200k+ Amazon reviews using AWS Glue and Amazon Redshift, with Spark NLP for sentiment analysis, Apache Spark's ALS in SageMaker for personalized recommendations, and K-Means clustering for targeted customer segmentation."
                 ghLink=""
                 //demoLink=""
               />
