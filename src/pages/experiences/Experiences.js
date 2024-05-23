@@ -7,6 +7,7 @@ import { MdWorkOutline } from "react-icons/md";
 import TTD from '../../assets/img/TheTradeDesk.png';
 import Tencent from '../../assets/img/Tencent.png';
 import Alibaba from '../../assets/img/Alibaba.png';
+import royalcyber from '../../assets/img/royalcyber.png';
 
 function Experiences() {
     return (
@@ -34,7 +35,7 @@ function Experiences() {
                     >
                         <h3 className="vertical-timeline-element-title">Capstone Project Data Scientist</h3>
                         <a href="https://www.royalcyber.com/" style={{textDecoration: 'none'}}> <h4 className="vertical-timeline-element-subtitle">Royal Cyber Inc.</h4> </a>
-                        <a href="https://www.royalcyber.com/"> <img className="vertical-timeline-element-image" src={RC} width={140} height={140} alt="royalcyber" /> </a>
+                        <a href="https://www.royalcyber.com/"> <img className="vertical-timeline-element-image" src={royalcyber} width={140} height={140} alt="royalcyber" /> </a>
                         <h4 className="vertical-timeline-element-subtitle">Chicago, United State</h4>
                         <p> &#x2022;Developed a personalized recommendation engine and an advanced chatbot leveraging Large Language Models (OpenAI GPT and LLaMA) within the LangChain framework and Retrieval-Augmented Generation (RAG) technology.<br /><br />
                             &#x2022;Implemented data solutions enabling Open Source P5 self-service frameworks for data consumers, enhancing product suggestion relevancy and user satisfaction in e-commerce platforms by training the preprocessed unstructured data.<br /><br />
