@@ -45,13 +45,12 @@ function ResumeNew() {
                     <Document
                         file={resumeLink}
                         onLoadSuccess={onDocumentLoadSuccess}
-                        className="d-flex justify-content-center"
                     >
                         {Array.from(
                             new Array(numPages),
                             (el, index) => (
-                                <Row key={`page_${index + 1}`} className="mb-1">  // Reduced bottom margin
-                                    <Col>
+                                <Row key={`page_${index + 1}`}>
+                                    <Col className="d-flex justify-content-center">
                                         <Page
                                             pageNumber={index + 1}
                                             scale={width > 786 ? 1.7 : 0.6}
