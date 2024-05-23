@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.a602ad88.css",
-    "main.js": "/static/js/main.4cf18bf3.js",
+    "main.js": "/static/js/main.1e9cceb2.js",
     "static/media/devicon.svg?biu5f3": "/static/media/devicon.f715b4139afc5236a6e6.svg",
     "static/media/maya.jpg": "/static/media/maya.0f88aac3e81eb78ba8dc.jpg",
-    "static/media/nlp.png": "/static/media/nlp.43ea2f2c0377fcac3237.png",
     "static/media/devicon.eot?biu5f3": "/static/media/devicon.afa70020fddd5e5a3260.eot",
     "static/media/devicon.woff?biu5f3": "/static/media/devicon.96fdfd136e8a467e1861.woff",
     "static/media/devicon.ttf?biu5f3": "/static/media/devicon.b25739c2b9d15a53d60c.ttf",
     "static/media/credit.png": "/static/media/credit.be0d4fa62bb67afb182d.png",
+    "static/media/kpi.png": "/static/media/kpi.da6501d58c833febc2a2.png",
     "static/media/resume.pdf": "/static/media/resume.6d14f57471124ae96a55.pdf",
     "static/media/divvy.webp": "/static/media/divvy.2b24bae83d7aff2aea9c.webp",
     "static/media/Tencent.png": "/static/media/Tencent.36c5067b0bd7d7866770.png",
@@ -23,6 +23,7 @@
     "static/media/react.png": "/static/media/react.0b021db27acf78d8c6e4.png",
     "static/media/css.png": "/static/media/css.a4fa50005ff3218b6e9d.png",
     "static/media/powerbi.png": "/static/media/powerbi.ed31c9178a483e225a56.png",
+    "static/media/nlp.jpeg": "/static/media/nlp.8b2a8ca1535c21000b2a.jpeg",
     "static/media/Alibaba.png": "/static/media/Alibaba.714a60a6db544f3ea441.png",
     "static/media/spark.png": "/static/media/spark.84796041a3e36641a3f5.png",
     "static/media/vba.png": "/static/media/vba.2d4ad24938a14d0648d0.png",
@@ -34,10 +35,10 @@
     "static/media/loading.gif": "/static/media/loading.1a32f552ee5280e2aef9.gif",
     "index.html": "/index.html",
     "main.a602ad88.css.map": "/static/css/main.a602ad88.css.map",
-    "main.4cf18bf3.js.map": "/static/js/main.4cf18bf3.js.map"
+    "main.1e9cceb2.js.map": "/static/js/main.1e9cceb2.js.map"
   },
   "entrypoints": [
     "static/css/main.a602ad88.css",
-    "static/js/main.4cf18bf3.js"
+    "static/js/main.1e9cceb2.js"
   ]
 }
