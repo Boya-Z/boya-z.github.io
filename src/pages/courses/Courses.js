@@ -24,7 +24,7 @@ function Course_Taken() {
                 <div style={{ position: 'absolute', left: '100px', top: '500px' }}>
                     <h4 className="text-center">Course taken at University of Chicago</h4> <br /> <br />
                     <div className="d-flex mt-4 ms-5">
-                        <img src={ads} alt="cs252" width={250} height={250}/>
+                        <img src={ads} alt="cs252" width={250} height={100}/>
                         <ul className=" portfolio_right_text list">
                             <strong>Big Data and Cloud Computing </strong> <br />
                             <strong>Professor:</strong> <br />
@@ -35,7 +35,7 @@ function Course_Taken() {
                     </div>
 
                     <div className="d-flex mt-4 ms-5">
-                        <img src={ads} alt="cs252" width={250} height={250}/>
+                        <img src={ads} alt="cs252" width={250} height={100}/>
                         <ul className=" portfolio_right_text list">
                             <strong>Leadership & Consulting in Data Science</strong> <br />
                             <strong>Professor:</strong> <br />
@@ -46,7 +46,7 @@ function Course_Taken() {
                     </div>
 
                     <div className="d-flex mt-4 ms-5">
-                        <img src={ads} alt="cs252" width={250} height={250}/>
+                        <img src={ads} alt="cs252" width={250} height={100}/>
                         <ul className=" portfolio_right_text list">
                             <strong>Statistical Analysis</strong> <br />
                             <strong>Professor:</strong> <br />
@@ -57,7 +57,7 @@ function Course_Taken() {
                     </div>
 
                     <div className="d-flex mt-4 ms-5">
-                        <img src={ads} alt="cs252" width={250} height={250}/>
+                        <img src={ads} alt="cs252" width={250} height={100}/>
                         <ul className=" portfolio_right_text list">
                             <strong>Natural Language Processing and Cognitive Computing</strong> <br />
                             <strong>Professor:</strong> <br />
@@ -67,7 +67,7 @@ function Course_Taken() {
                         </ul>
                     </div>
                     <div className="d-flex mt-4 ms-5">
-                        <img src={ads} alt="cs252" width={250} height={250}/>
+                        <img src={ads} alt="cs252" width={250} height={100}/>
                         <ul className=" portfolio_right_text list">
                             <strong>Data Mining Principles</strong> <br />
                             <strong>Professor:</strong> <br />
@@ -77,7 +77,7 @@ function Course_Taken() {
                         </ul>
                     </div>
                     <div className="d-flex mt-4 ms-5">
-                        <img src={ads} alt="cs252" width={250} height={250}/>
+                        <img src={ads} alt="cs252" width={250} height={100}/>
                         <ul className=" portfolio_right_text list">
                             <strong>Linear and Non-Linear Models</strong> <br />
                             <strong>Professor:</strong> <br />
@@ -87,7 +87,7 @@ function Course_Taken() {
                         </ul>
                     </div>
                     <div className="d-flex mt-4 ms-5">
-                        <img src={ads} alt="cs252" width={250} height={250}/>
+                        <img src={ads} alt="cs252" width={250} height={100}/>
                         <ul className=" portfolio_right_text list">
                             <strong>Machine Learning & Predictive Analytics</strong> <br />
                             <strong>Professor:</strong> <br />
@@ -97,7 +97,7 @@ function Course_Taken() {
                         </ul>
                     </div>
                     <div className="d-flex mt-4 ms-5">
-                        <img src={ads} alt="cs252" width={250} height={250}/>
+                        <img src={ads} alt="cs252" width={250} height={100}/>
                         <ul className=" portfolio_right_text list">
                             <strong>Time Series Analysis and Forecasting</strong> <br />
                             <strong>Professor:</strong> <br />
