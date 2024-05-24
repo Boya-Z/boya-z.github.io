@@ -33,7 +33,7 @@ function Projects() {
                 isBlog={false}
                 title="Time Series Demand Foresting for Divvy Bike Usage in Chicago"
                 description="A forecasting system developed using Python and machine learning models like SARIMA, Prophet, Orbit, and LSTM, optimizing Divvy bike availability and reducing costs.                                                                         "
-                ghLink=""
+                ghLink="https://github.com/Boya-Z/Divvy-Demand-Forecast"
                 //demoLink=""
               />
             </Col>
@@ -53,7 +53,7 @@ function Projects() {
                 isBlog={false}
                 title="AI Trend Analysis on Industries with Natural Language Processing on GCP"
                 description="An AI impacts analysis using NLP techniques on 200K news articles,involving topic detection with LDA and BERTopic, sentiment analysis with a Customized Logistic Model, and entity recognition."
-                ghLink=""
+                ghLink="https://github.com/Boya-Z/NLP-Project"
                 //demoLink=""
               />
             </Col>
