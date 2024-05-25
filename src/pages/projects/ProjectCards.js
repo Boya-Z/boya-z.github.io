@@ -6,8 +6,13 @@ import { BsGithub } from "react-icons/bs";
 
 function ProjectCards(props) {
   return (
-    <Card className="project-card-view">
-      <Card.Img variant="top" src={props.imgPath} alt="card-img" />
+    <Card className="project-card-view" style={{ margin: '20px' }}> {/* Added margin to the card so there is spacing between each card */}
+      <Card.Img 
+        variant="top" 
+        src={props.imgPath} 
+        alt="card-img" 
+        style={{ width: "100%", height: "15vw", objectFit: "cover" }} // We can set the height and width of the image here because here is where the image is being rendered
+        />
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
         <Card.Text style={{ textAlign: "justify" }}>
@@ -19,8 +24,6 @@ function ProjectCards(props) {
         </Button>
         {"\n"}
         {"\n"}
-
-        {/* If the component contains Demo link and if it's not a Blog then, it will render the below component  */}
 
         {!props.isBlog && props.demoLink && (
           <Button
