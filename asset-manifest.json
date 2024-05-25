@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a602ad88.css",
-    "main.js": "/static/js/main.b611d5ba.js",
+    "main.js": "/static/js/main.e2e379cc.js",
     "static/media/devicon.svg?biu5f3": "/static/media/devicon.f715b4139afc5236a6e6.svg",
     "static/media/maya.jpg": "/static/media/maya.0f88aac3e81eb78ba8dc.jpg",
     "static/media/devicon.eot?biu5f3": "/static/media/devicon.afa70020fddd5e5a3260.eot",
@@ -9,7 +9,7 @@
     "static/media/devicon.ttf?biu5f3": "/static/media/devicon.b25739c2b9d15a53d60c.ttf",
     "static/media/credit.png": "/static/media/credit.be0d4fa62bb67afb182d.png",
     "static/media/kpi.png": "/static/media/kpi.da6501d58c833febc2a2.png",
-    "static/media/resume.pdf": "/static/media/resume.6d14f57471124ae96a55.pdf",
+    "static/media/Resume.pdf": "/static/media/Resume.6d14f57471124ae96a55.pdf",
     "static/media/divvy.webp": "/static/media/divvy.2b24bae83d7aff2aea9c.webp",
     "static/media/Tencent.png": "/static/media/Tencent.36c5067b0bd7d7866770.png",
     "static/media/uwcs.png": "/static/media/uwcs.3736aeb284076138e5a3.png",
@@ -35,10 +35,10 @@
     "static/media/loading.gif": "/static/media/loading.1a32f552ee5280e2aef9.gif",
     "index.html": "/index.html",
     "main.a602ad88.css.map": "/static/css/main.a602ad88.css.map",
-    "main.b611d5ba.js.map": "/static/js/main.b611d5ba.js.map"
+    "main.e2e379cc.js.map": "/static/js/main.e2e379cc.js.map"
   },
   "entrypoints": [
     "static/css/main.a602ad88.css",
-    "static/js/main.b611d5ba.js"
+    "static/js/main.e2e379cc.js"
   ]
 }
