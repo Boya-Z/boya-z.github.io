@@ -42,7 +42,7 @@ function Projects() {
                 imgPath={credit}
                 isBlog={false}
                 title="Credit Card Fraud Detection System using Deep Learning"
-                description="A fraud detection system developed using deep learning techniques like Multilayer Neural Networks and CNNs, achieving 97.50% accuracy and 100% precision in identifying fraudulent transactions.                                  "
+                description="A fraud detection system developed using deep learning techniques like Multilayer Neural Networks(NN) and Convolutional Neural Network(CNN), achieving 97.50% accuracy and 100% precision in identifying fraudulent transactions.                                  "
                 ghLink="https://github.com/Boya-Z/Fraud-Detectoion"
                 //demoLink=""
               />
