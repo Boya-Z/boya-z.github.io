@@ -1,6 +1,7 @@
 import { Container } from 'react-bootstrap';
 import { Helmet, HelmetProvider } from 'react-helmet-async';
 import '../../style.css';
+import { Tooltip } from 'react-tooltip';
 import { Col, Row } from "react-bootstrap";
 import Java from '../../assets/img/techstack/java.png';
 import CLang from '../../assets/img/techstack/clang.png';
@@ -39,7 +40,7 @@ function Skills() {
             </Col>
 
             <Col xs={4} md={2} className="tech-icons">
-                <img src={Python} length={150} width={150} title="Python" alt="python"/>
+                <img src={Python} length={150} width={150} title="Python" alt="python" data-tooltip-id="python" data-tooltip-content="Python" />
             </Col>
 
             <Col xs={4} md={2} className="tech-icons">
