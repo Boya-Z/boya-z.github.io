@@ -32,7 +32,7 @@ function Projects() {
                 imgPath={divvy}
                 isBlog={false}
                 title="Time Series Demand Foresting for Divvy Bike Usage in Chicago"
-                description="A forecasting system developed using Python and machine learning models like SARIMA, Prophet, Orbit, and LSTM, optimizing Divvy bike availability and reducing costs.                                                                         "
+                description="A forecasting system developed using Python, Bayesian Optimization, and machine learning models like SARIMA, Prophet, Orbi DTL, and LSTM, optimizing Divvy bike availability and reducing costs.                                                                         "
                 ghLink="https://github.com/Boya-Z/Divvy-Demand-Forecast"
                 //demoLink=""
               />
@@ -42,7 +42,7 @@ function Projects() {
                 imgPath={credit}
                 isBlog={false}
                 title="Credit Card Fraud Detection System using Deep Learning"
-                description="A fraud detection system developed using deep learning techniques like Multilayer Neural Networks(NN) and Convolutional Neural Network(CNN), achieving 97.50% accuracy and 100% precision in identifying fraudulent transactions.                                  "
+                description="A fraud detection system developed using deep learning techniques like Multilayer Neural Networks and CNNs, achieving 97.50% accuracy and 100% precision in identifying fraudulent transactions.                                  "
                 ghLink="https://github.com/Boya-Z/Fraud-Detectoion"
                 //demoLink=""
               />
