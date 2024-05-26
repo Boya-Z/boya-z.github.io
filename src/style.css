@@ -164,7 +164,7 @@ img.home-image {
     align-items: center;
     flex-direction: column;
     text-align: center;
-    width: 300px;
+    width: 150px;
   }
   
   .about-right {
@@ -172,7 +172,7 @@ img.home-image {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    width: 750px;
+    width: 700px;
   }
   
   .about-left h3,
@@ -254,7 +254,7 @@ img.home-image {
 /* Tech Icons */
   .tech-icons {
     font-size: 4.5em !important;
-    margin: 15px !important;
+    margin: 10px !important;
     padding: 10px !important;
     opacity: 0.93 !important;
     border: 1.7px solid rgba(200, 137, 230, 0.637) !important;
@@ -267,7 +267,7 @@ img.home-image {
     transition: all 0.4s ease 0s !important;
   }
   
-  @media (max-width: 767px) {
+  @media (max-width: 760px) {
     .tech-icons {
       margin: 10px !important;
     }
@@ -276,11 +276,11 @@ img.home-image {
   .tech-icons:hover {
     transform: scale(1.05) !important;
     overflow: hidden !important;
-    border: 2.2px solid rgba(197, 115, 230, 0.883) !important;
+    border: 3.2px solid rgba(197, 115, 230, 0.883) !important;
   }
   .tech-icon-images {
-    padding: 20px !important;
-    line-height: 1.6 !important;
+    padding: 10px !important;
+    line-height: 1 !important;
   }
 
 /* --------- */
@@ -509,7 +509,7 @@ img.home-image {
     align-items: center;
     flex-direction: column;
     text-align: center;
-    width: 300px;
+    width: 200px;
 }
 
 .skills-left h3, .skills-left h4 {
@@ -533,7 +533,7 @@ img.home-image {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    width: 1250px;
+    width: 1050px;
     left: 1100px !important;
     top: 500px !important;
 }
@@ -593,7 +593,7 @@ i.colored:hover {
     }
 
     .skills-left h3 {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     .skills-left h4 {

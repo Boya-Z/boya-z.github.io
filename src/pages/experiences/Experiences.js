@@ -18,7 +18,7 @@ function Experiences() {
                 </Helmet>
             </HelmetProvider>
             <Container fluid className="skills-wrapper">
-                <div className="experience animate__animated animate__zoomIn">
+                <div className="skills-left animate__animated animate__zoomIn">
                     <h3>Experiences</h3>
                     <h4>
                         ───&nbsp;&nbsp;Page <strong>03</strong>
@@ -31,9 +31,10 @@ function Experiences() {
                         contentStyle={{ background: '#F5F5F5', color: '#000' }}
                         contentArrowStyle={{ borderRight: '7px solid  #89CFF0' }}
                         iconStyle={{ background: '#89CFF0', color: '#fff' }}
+                        position='right' /* make timeline in change direction */
                         icon={<MdWorkOutline />}
                     >
-                        <h3 className="vertical-timeline-element-title">Capstone Project Data Scientist</h3>
+                        <h3 className="vertical-timeline-element-title">Data Scientist Intern</h3>
                         <a href="https://www.royalcyber.com/" style={{textDecoration: 'none'}}> <h4 className="vertical-timeline-element-subtitle">Royal Cyber Inc.</h4> </a>
                         <a href="https://www.royalcyber.com/"> <img className="vertical-timeline-element-image" src={royalcyber} width={140} height={140} alt="royalcyber" /> </a>
                         <h4 className="vertical-timeline-element-subtitle">Chicago, United State</h4>
@@ -48,6 +49,7 @@ function Experiences() {
                         contentStyle={{ background: '#F5F5F5', color: '#000' }}
                         contentArrowStyle={{ borderRight: '7px solid  #89CFF0' }}
                         iconStyle={{ background: '#89CFF0', color: '#fff' }}
+                        
                         icon={<MdWorkOutline />}
                     >
                         <h3 className="vertical-timeline-element-title">Business Analyst Intern</h3>
@@ -68,6 +70,7 @@ function Experiences() {
                         contentStyle={{ background: '#F5F5F5', color: '#000' }}
                         contentArrowStyle={{ borderRight: '7px solid  #89CFF0' }}
                         iconStyle={{ background: '#89CFF0', color: '#fff' }}
+                        position='right' /* make timeline in change direction */
                         icon={<MdWorkOutline />}
                     >
                         <h3 className="vertical-timeline-element-title">Data Scientist Intern</h3>

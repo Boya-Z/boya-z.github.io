@@ -6,7 +6,7 @@ import { BsGithub } from "react-icons/bs";
 
 function ProjectCards(props) {
   return (
-    <Card className="project-card-view" style={{ margin: '20px' }}> {/* Added margin to the card so there is spacing between each card */}
+    <Card className="project-card-view" style={{ margin: '10px' }}> {/* Added margin to the card so there is spacing between each card */}
       <Card.Img 
         variant="top" 
         src={props.imgPath} 

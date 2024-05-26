@@ -25,14 +25,14 @@ function Projects() {
             ───&nbsp;&nbsp;Page <strong>04</strong>
           </h4>
         </div>
-        <Container style={{ position: 'absolute', left: 'auto', top: '500px' }}>
+        <Container style={{ position: 'absolute', left: '100px', top: '500px' }}>
           <Row style={{ justifyContent: "center" }}>
             <Col md={4}>
               <ProjectCard
                 imgPath={divvy}
                 isBlog={false}
                 title="Time Series Demand Foresting for Divvy Bike Usage in Chicago"
-                description="A forecasting system developed using Python, Bayesian Optimization, and machine learning models like SARIMA, Prophet, Orbi DTL, and LSTM, optimizing Divvy bike availability and reducing costs.                                                                         "
+                description="A forecasting system developed using Python, and machine learning models like SARIMA, Prophet, Orbi DTL, and LSTM, optimizing Divvy bike availability and reducing costs.                                                                         "
                 ghLink="https://github.com/Boya-Z/Divvy-Demand-Forecast"
                 //demoLink=""
               />
