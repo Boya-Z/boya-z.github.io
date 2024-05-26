@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a602ad88.css",
-    "main.js": "/static/js/main.e2e379cc.js",
+    "main.css": "/static/css/main.556bcd3f.css",
+    "main.js": "/static/js/main.d1368b01.js",
     "static/media/devicon.svg?biu5f3": "/static/media/devicon.f715b4139afc5236a6e6.svg",
     "static/media/maya.jpg": "/static/media/maya.0f88aac3e81eb78ba8dc.jpg",
     "static/media/devicon.eot?biu5f3": "/static/media/devicon.afa70020fddd5e5a3260.eot",
@@ -19,26 +19,34 @@
     "static/media/python.png": "/static/media/python.93a0e9ec42ddfebc9c9e.png",
     "static/media/rlang.png": "/static/media/rlang.6f0faf4564552c0c3fc7.png",
     "static/media/html.png": "/static/media/html.b74df08d26fe5cd91e29.png",
+    "static/media/linux.png": "/static/media/linux.f4ee31ea0e48b35b4444.png",
     "static/media/java.png": "/static/media/java.3d908caaf329266f067d.png",
     "static/media/react.png": "/static/media/react.0b021db27acf78d8c6e4.png",
     "static/media/css.png": "/static/media/css.a4fa50005ff3218b6e9d.png",
     "static/media/powerbi.png": "/static/media/powerbi.ed31c9178a483e225a56.png",
     "static/media/nlp.jpeg": "/static/media/nlp.8b2a8ca1535c21000b2a.jpeg",
     "static/media/Alibaba.png": "/static/media/Alibaba.714a60a6db544f3ea441.png",
+    "static/media/nodejs.png": "/static/media/nodejs.673f283aa496ea95c5c5.png",
     "static/media/spark.png": "/static/media/spark.84796041a3e36641a3f5.png",
+    "static/media/docker.png": "/static/media/docker.8741a896d73814defd74.png",
+    "static/media/gcp.webp": "/static/media/gcp.68dc8428256444da3b97.webp",
+    "static/media/aws.png": "/static/media/aws.93f04ae6d93a76fa069a.png",
     "static/media/vba.png": "/static/media/vba.2d4ad24938a14d0648d0.png",
     "static/media/tableau.png": "/static/media/tableau.a7403607b08a891122f3.png",
+    "static/media/azure.png": "/static/media/azure.c1c133ec1eb98218ce66.png",
+    "static/media/tf.png": "/static/media/tf.f7f28aa02648421ac8fd.png",
     "static/media/TheTradeDesk.png": "/static/media/TheTradeDesk.2d7f822fb173bd080ce7.png",
     "static/media/amazon.webp": "/static/media/amazon.3edb7a591ec4fed6b044.webp",
+    "static/media/git.png": "/static/media/git.a926c8f9b60919e623e0.png",
     "static/media/cv.jpeg": "/static/media/cv.159ab148a9f5880600ec.jpeg",
     "static/media/javascript.png": "/static/media/javascript.d27fb0d8cf65f92dedf5.png",
     "static/media/loading.gif": "/static/media/loading.1a32f552ee5280e2aef9.gif",
     "index.html": "/index.html",
-    "main.a602ad88.css.map": "/static/css/main.a602ad88.css.map",
-    "main.e2e379cc.js.map": "/static/js/main.e2e379cc.js.map"
+    "main.556bcd3f.css.map": "/static/css/main.556bcd3f.css.map",
+    "main.d1368b01.js.map": "/static/js/main.d1368b01.js.map"
   },
   "entrypoints": [
-    "static/css/main.a602ad88.css",
-    "static/js/main.e2e379cc.js"
+    "static/css/main.556bcd3f.css",
+    "static/js/main.d1368b01.js"
   ]
 }
