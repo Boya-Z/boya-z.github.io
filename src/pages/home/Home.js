@@ -1,6 +1,5 @@
 import { Container } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
-import LoadingGif from '../../assets/img/loading.gif';
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import '../../style.css';
 import Maya from '../../assets/img/maya.jpg';

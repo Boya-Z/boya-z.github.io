@@ -3,7 +3,6 @@ import { Container} from "react-bootstrap";
 import { Helmet, HelmetProvider } from 'react-helmet-async';
 import '../../style.css';
 import { AiFillStar } from "react-icons/ai";
-import LoadingGif from "../../assets/img/loading.gif";
 import ads from "../../assets/img/ads.png";
 import uwcs from "../../assets/img/uwcs.png";
 
