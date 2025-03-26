@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3fd6d29.css",
-    "main.js": "/static/js/main.9ea0e4ab.js",
-    "static/media/devicon.svg?biu5f3": "/static/media/devicon.f715b4139afc5236a6e6.svg",
+    "main.css": "/static/css/main.0dc55f94.css",
+    "main.js": "/static/js/main.e6ce3454.js",
+    "static/media/devicon.svg?iehcku": "/static/media/devicon.de33ff67547800466a48.svg",
+    "static/media/devicon.woff?iehcku": "/static/media/devicon.25bdb9cbf8e5f9b4dde9.woff",
+    "static/media/devicon.ttf?iehcku": "/static/media/devicon.161b6f3376d6ce5c517d.ttf",
     "static/media/maya.jpg": "/static/media/maya.0f88aac3e81eb78ba8dc.jpg",
-    "static/media/devicon.eot?biu5f3": "/static/media/devicon.afa70020fddd5e5a3260.eot",
-    "static/media/devicon.woff?biu5f3": "/static/media/devicon.96fdfd136e8a467e1861.woff",
-    "static/media/devicon.ttf?biu5f3": "/static/media/devicon.b25739c2b9d15a53d60c.ttf",
     "static/media/credit.png": "/static/media/credit.be0d4fa62bb67afb182d.png",
     "static/media/kpi.png": "/static/media/kpi.da6501d58c833febc2a2.png",
-    "static/media/Resume.pdf": "/static/media/Resume.6d14f57471124ae96a55.pdf",
+    "static/media/Boya_Zeng_DS_2025.pdf": "/static/media/Boya_Zeng_DS_2025.7758cf48ba7729f3c070.pdf",
     "static/media/divvy.webp": "/static/media/divvy.2b24bae83d7aff2aea9c.webp",
     "static/media/Tencent.png": "/static/media/Tencent.36c5067b0bd7d7866770.png",
     "static/media/uwcs.png": "/static/media/uwcs.3736aeb284076138e5a3.png",
@@ -40,13 +39,12 @@
     "static/media/git.png": "/static/media/git.a926c8f9b60919e623e0.png",
     "static/media/cv.jpeg": "/static/media/cv.159ab148a9f5880600ec.jpeg",
     "static/media/javascript.png": "/static/media/javascript.d27fb0d8cf65f92dedf5.png",
-    "static/media/loading.gif": "/static/media/loading.1a32f552ee5280e2aef9.gif",
     "index.html": "/index.html",
-    "main.e3fd6d29.css.map": "/static/css/main.e3fd6d29.css.map",
-    "main.9ea0e4ab.js.map": "/static/js/main.9ea0e4ab.js.map"
+    "main.0dc55f94.css.map": "/static/css/main.0dc55f94.css.map",
+    "main.e6ce3454.js.map": "/static/js/main.e6ce3454.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3fd6d29.css",
-    "static/js/main.9ea0e4ab.js"
+    "static/css/main.0dc55f94.css",
+    "static/js/main.e6ce3454.js"
   ]
 }
