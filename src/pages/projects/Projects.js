@@ -1,7 +1,6 @@
 import { Container, Row, Col } from 'react-bootstrap';
 import { Helmet, HelmetProvider } from 'react-helmet-async';
 import '../../style.css';
-import LoadingGif from '../../assets/img/loading.gif';
 import ProjectCard from "./ProjectCards";
 import amazon from '../../assets/img/project/amazon.webp';
 import divvy from '../../assets/img/project/divvy.webp';
@@ -83,27 +82,6 @@ function Projects() {
                 isBlog={false}
                 title="Computer Vision Project: Automated Image Classification System"
                 description="An image classifier developed using TensorFlow and Keras, applying data augmentation to 50k+ images and employing CNN architectures like ResNet and VGG, achieving 92% accuracy.                                                "
-                ghLink=""
-                //demoLink=""
-              />
-            </Col>
-            <Col md={4}>
-              <ProjectCard
-                imgPath={LoadingGif}
-                isBlog={false}
-                title="Next.js E-commerce Store"
-                description="A simple E-commerce store built with Next.js, Tailwind CSS, and Stripe"
-                ghLink=""
-                //demoLink=""
-              />
-            </Col>
-
-            <Col md={4}>
-              <ProjectCard
-                imgPath={LoadingGif}
-                isBlog={false}
-                title="NodeJS Realtime Chat"
-                description="A simple realtime chat app built with NodeJS and React"
                 ghLink=""
                 //demoLink=""
               />

@@ -105,7 +105,48 @@ function Course_Taken() {
                             <strong>When: Spring 2024 </strong> <br />
                             <strong>Workload: <AiFillStar color="#FFDB58"/> <AiFillStar color="#FFDB58"/> <AiFillStar color="#FFDB58"/> </strong>
                         </ul>
-                    </div> <br /> <br />
+                    </div> 
+                    <div className="d-flex mt-4 ms-5">
+                        <img src={ads} alt="cs252" width={250} height={90}/>
+                        <ul className=" portfolio_right_text list">
+                            <strong>Capstone I
+                                </strong> <br />
+                            <strong>Professor:</strong> <br />
+                            
+                            <strong>When: Spring 2024 </strong> <br />
+                            <strong>Workload: <AiFillStar color="#FFDB58"/><AiFillStar color="#FFDB58"/> <AiFillStar color="#FFDB58"/> <AiFillStar color="#FFDB58"/> </strong>
+                        </ul>
+                    </div>
+                    <div className="d-flex mt-4 ms-5">
+                        <img src={ads} alt="cs252" width={250} height={90}/>
+                        <ul className=" portfolio_right_text list">
+                            <strong>Advanced Computer Vision with Deep Learning</strong> <br />
+                            <strong>Professor:</strong> <br />
+                            
+                            <strong>When: Summer 2024 </strong> <br />
+                            <strong>Workload: <AiFillStar color="#FFDB58"/><AiFillStar color="#FFDB58"/> <AiFillStar color="#FFDB58"/> <AiFillStar color="#FFDB58"/> </strong>
+                        </ul>
+                    </div>
+                    <div className="d-flex mt-4 ms-5">
+                        <img src={ads} alt="cs252" width={250} height={90}/>
+                        <ul className=" portfolio_right_text list">
+                            <strong>Machine Learning Operations</strong> <br />
+                            <strong>Professor:</strong> <br />
+                            
+                            <strong>When: Summer 2024 </strong> <br />
+                            <strong>Workload: <AiFillStar color="#FFDB58"/><AiFillStar color="#FFDB58"/> <AiFillStar color="#FFDB58"/> <AiFillStar color="#FFDB58"/> </strong>
+                        </ul>
+                    </div>
+                    <div className="d-flex mt-4 ms-5">
+                        <img src={ads} alt="cs252" width={250} height={90}/>
+                        <ul className=" portfolio_right_text list">
+                            <strong>Capstone II</strong> <br />
+                            <strong>Professor:</strong> <br />
+                            
+                            <strong>When: Autumn 2024 </strong> <br />
+                            <strong>Workload: <AiFillStar color="#FFDB58"/><AiFillStar color="#FFDB58"/> <AiFillStar color="#FFDB58"/> <AiFillStar color="#FFDB58"/> </strong>
+                        </ul>
+                    </div><br /> <br />
 
     
 

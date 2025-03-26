@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
-import Resume from "../../assets/resume/Resume.pdf";
+import Resume from "../../assets/resume/Boya_Zeng_DS_2025.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import { Helmet, HelmetProvider } from 'react-helmet-async';

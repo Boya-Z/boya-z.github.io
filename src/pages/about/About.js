@@ -20,7 +20,7 @@ function About() {
         <div className="about-right">
           <p> 
             Hi, I'm Boya Zeng, a first year master student at University of Chicago, studying Applied Data Science. 
-            <strong>I am currently seeking full-time opportunities as a business analyst, data analyst, data scientist, or Machine Learning position.</strong>
+            <strong>I am currently seeking full-time opportunities as a Business Analyst, Data Analyst, Data Scientist, or Machine Learning position.</strong>
           </p>
         </div>
 

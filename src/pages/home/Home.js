@@ -28,6 +28,14 @@ function Home() {
           <NavLink to="/contact" className="btn-download text-center">
             Let's Connect
           </NavLink>
+          
+          <NavLink to="/projects" className="btn-download text-center">
+            Project
+          </NavLink>
+
+          <NavLink to="/resume" className="btn-download text-center">
+            Resume
+          </NavLink>
           {/* <AiFillFileText /> */}
           {/* &nbsp;&nbsp;Hire Me */}
         </div>
